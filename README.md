@@ -1,16 +1,13 @@
-## Hi there 👋
+## hello from Australia, i'm UnApexVerse 👋
 
-<!--
-**UnApexVerse/UnApexVerse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code, breaking things, and learning something new every day. Based in Australia.
 
-Here are some ideas to get you started:
+- shipping small and often
+- reading docs more than books lately
+- learning Neovim the slow way
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=UnApexVerse&hide_border=true&theme=gruvbox" alt="Commit streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=UnApexVerse&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=gruvbox" alt="UnApexVerse GitHub stats" />
+
+<img src="https://img.shields.io/badge/Python-ff7b72?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-ff7b72?style=for-the-badge&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Go-ff7b72?style=for-the-badge&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Neovim-ff7b72?style=for-the-badge&logoColor=white" alt="Neovim" />
